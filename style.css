@@ -5,3 +5,13 @@ h3 {
 h5 {
     color: #4AAAA5
 }
+
+.back-green {
+    background-color: #4AAAA5;
+}
+
+@media only screen and (max-width: 975px) {
+     .navbar {
+      background: #4AAAA5 !important;
+    } 
+}
